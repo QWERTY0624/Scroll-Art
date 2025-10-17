@@ -6,7 +6,7 @@ Scroll Art
 
 Here is the Sword(Citation points 1):
 ```
-       |-|
+       |-|      TAK
        | |
        | |
      -------
@@ -23,7 +23,7 @@ Here is the Sword(Citation points 1):
 
 Here is the Shield(Citation points 1):
 ```
-    |--------|
+    |--------|      TAK
     |\  ||  /|
     | \ || / |
     |  \||/  |
