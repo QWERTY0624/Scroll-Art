@@ -39,4 +39,4 @@ Here is the Shield(Citation points 1):
 ```
 ## 2. Diamonds
 
-'Diamonds.java' is a program that prints a diamond shape by printing hashtags expanding from the center of the terminal and then going back to the center. Each diamond is a random size. (Citation points: 1)
+'Diamonds.java' is a program that prints a diamond shape by printing hashtags expanding from the center of the terminal and then going back to the center. Each diamond is a random size. Same as earlier, the getUnixTerminalWidth() and getTerminalWidth() were by Ms. Feng(Citation points: 1, 2, 2)
