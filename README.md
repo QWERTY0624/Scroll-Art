@@ -1,4 +1,4 @@
-This is a program containing multiple people's scroll art.
+This is a program containing multiple people's scroll art. Much of the code, such as AsciiArt.java was originally made by Ms. Feng
 
 Here is the Sword(Citation points 1):
 ```
@@ -84,3 +84,4 @@ Here is a cloud made by David Moos, https://github.com/dmooshm/DM-Scroll-Art/blo
 :  .*    
 ::*                
 ```
+
