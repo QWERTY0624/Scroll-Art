@@ -1,8 +1,4 @@
-Scroll Art
-
-## 1. Sword and Shield 
-    
-'SwordShield.java' is a program that prints ascii sword and shield still lifes. Both the sword and shield still lifes were made by me. It is important to note that the getSword(),getShield(),getUnixTerminalWidth(), and getTerminalWidth() methods were originally made by Ms. Feng. The getSword() and getShield() were originally the getBunny() that was repurposed and renamed for this project, with the ascii art being changed to mine. I made no changes to getUnixTerminalWidth() and getTerminalWidth(). (Citation points: 2,2,2,2)
+This is a program containing multiple people's scroll art.
 
 Here is the Sword(Citation points 1):
 ```
@@ -37,6 +33,54 @@ Here is the Shield(Citation points 1):
        \||/
         \/ 
 ```
-## 2. Diamonds
+Here is a mask made by Conor Felczak, https://github.com/conor-felczak/scroll-art
+```
+ /----\/----\
+  \ ##    ## /
+   \  /  \  / 
+    \- \/ -/
+```
 
-'Diamonds.java' is a program that prints a diamond shape by printing hashtags expanding from the center of the terminal and then going back to the center. Each diamond is a random size. Same as earlier, the getUnixTerminalWidth() and getTerminalWidth() were made by Ms. Feng (Citation points: 1, 2, 2)
+Here is a sword made by Rayden Wang ,https://github.com/rwanghm5/scroll-art
+```
+  /\ 
+ (  )  
+ /  \   
+| ~~ |   
+| ~~ |  
+| ~~ |  
+| RW |  
+| ~~ |   
+| ~~ |   
+( ~~ )   
+\ ~~ / 
+ |  |   
+ |  | 
+ \  /  
+  \/   
+```
+
+Here is a sparkle made by Oliver Joffee, https://github.com/Oliver-Joffee/scroll-art
+```
+  _     _   
+_\/\/‾_\/\/‾
+_    ‾_    ‾
+/    \/    \
+\    /\    /
+_    ‾_    ‾
+_/\/\‾_/\/\‾ 
+  _     _   
+```
+
+Here is a cloud made by David Moos, https://github.com/dmooshm/DM-Scroll-Art/blob/master/src/Cloud.java
+```
+ _ 
+: :.   
+:   :
+:  *
+:   :
+:    *    
+:    ;    
+:  .*    
+::*                
+```
